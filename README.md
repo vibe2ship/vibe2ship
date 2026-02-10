@@ -1,24 +1,24 @@
-## Vibe2Ship · AI 时代的产品实验室
+## Vibe2Ship · A Product Lab for the AI Era
 
-一群在用 AI 做产品的人，分享真实经验。
+A community of builders shipping real products with AI — sharing what actually works.
 
-### 群里日常
+### What We Talk About
 
-- 哪些 AI 工具真正好用（不是广告，是自己在用的）
-- 从 0 到上线踩过的坑
-- 新出的 AI 能力怎么用到自己项目里
-- 做独立产品的一手经验和信息差
+- AI tools that are genuinely useful (no ads, just stuff we actually use)
+- Hard-won lessons from going zero to launch
+- How to put the latest AI capabilities to work in your own projects
+- First-hand insights and info edges for indie builders
 
 ### Workshop
 
-每两周一次线上 Workshop，从想法到上线一起做。免费。
+Free online workshops every two weeks — from idea to launch, built together.
 
-### 开源
+### Open Source
 
-我们把好用的东西开源出来 → [Awesome-Skills](https://github.com/vibe2ship/Awesome-Skills)
+We open-source the good stuff → [Awesome-Skills](https://github.com/vibe2ship/Awesome-Skills)
 
-### 理念
+### Philosophy
 
-不讲概念，只讲实操。不卖课，只做事。
+No fluff, just practice. No courses to sell, just work to ship.
 
-想进群的都是在做事的人，欢迎潜水。
+Everyone here is building something. Lurkers welcome.
