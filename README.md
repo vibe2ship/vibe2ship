@@ -2,29 +2,23 @@
 
 一群在用 AI 做产品的人，分享真实经验。
 
-### 在做的事
+### 群里日常
 
-- 用 Claude Code 造工具，从想法到上线
-- 开源可复用的 [Claude Skills](https://github.com/vibe2ship/Awesome-Skills)，让 AI 帮你搭脚手架
-- 每两周一次线上 Workshop，从想法到上线一起做
+- 哪些 AI 工具真正好用（不是广告，是自己在用的）
+- 从 0 到上线踩过的坑
+- 新出的 AI 能力怎么用到自己项目里
+- 做独立产品的一手经验和信息差
 
-### 精选项目
+### Workshop
 
-| 项目 | 一句话 |
-|------|--------|
-| [Awesome-Skills](https://github.com/vibe2ship/Awesome-Skills) | Claude Code 自定义技能合集，`make install` 一键安装 |
-| mini-lsm | 从零实现 LSM-Tree 存储引擎（Rust） |
-| mini-raft | 从零实现 Raft 共识算法（Rust） |
-| mini-triton | 从零实现 GPU Kernel 编译器（Python） |
-| mini-duckdb | 从零实现列式分析数据库（Go） |
-| mini-jit | 从零实现 x86-64 JIT 编译器（C++） |
+每两周一次线上 Workshop，从想法到上线一起做。免费。
 
-> 以上项目均由 `/mentor` skill 生成骨架和测试，核心实现留给学习者。
+### 开源
 
-### 技术栈
+我们把好用的东西开源出来 → [Awesome-Skills](https://github.com/vibe2ship/Awesome-Skills)
 
-`Rust` `Go` `C++` `Python` `TypeScript` `Systems Programming` `Distributed Systems` `AI Infra`
+### 理念
 
-### 联系
+不讲概念，只讲实操。不卖课，只做事。
 
 想进群的都是在做事的人，欢迎潜水。
