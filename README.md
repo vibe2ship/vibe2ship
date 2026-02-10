@@ -17,6 +17,12 @@ Free online workshops every two weeks — from idea to launch, built together.
 
 We open-source the good stuff → [Awesome-Skills](https://github.com/vibe2ship/Awesome-Skills)
 
+### Join Us
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2eGYtKVJ)
+
+Come hang out — ask questions, share what you're building, or just lurk.
+
 ### Philosophy
 
 No fluff, just practice. No courses to sell, just work to ship.
